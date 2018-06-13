@@ -28,6 +28,7 @@ namespace winForm01
 
         private void Form1_Load(object sender, EventArgs e)
         {
+
             string appCfgPath = Application.StartupPath + "\\data\\app.ini";
             if (File.Exists(appCfgPath))
             {

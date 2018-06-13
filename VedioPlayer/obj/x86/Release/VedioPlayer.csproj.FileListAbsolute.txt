@@ -1,0 +1,12 @@
+D:\software\c_project2010\winForm实例\VedioPlayer\bin\Release\VedioPlayer.exe
+D:\software\c_project2010\winForm实例\VedioPlayer\bin\Release\VedioPlayer.pdb
+D:\software\c_project2010\winForm实例\VedioPlayer\obj\x86\Release\VedioPlayer.Form1.resources
+D:\software\c_project2010\winForm实例\VedioPlayer\obj\x86\Release\VedioPlayer.Properties.Resources.resources
+D:\software\c_project2010\winForm实例\VedioPlayer\obj\x86\Release\VedioPlayer.csproj.GenerateResource.Cache
+D:\software\c_project2010\winForm实例\VedioPlayer\obj\x86\Release\VedioPlayer.exe
+D:\software\c_project2010\winForm实例\VedioPlayer\obj\x86\Release\VedioPlayer.pdb
+D:\software\c_project2010\winForm实例\VedioPlayer\obj\x86\Release\Interop.WMPLib.dll
+D:\software\c_project2010\winForm实例\VedioPlayer\obj\x86\Release\AxInterop.WMPLib.dll
+D:\software\c_project2010\winForm实例\VedioPlayer\obj\x86\Release\VedioPlayer.csproj.ResolveComReference.cache
+D:\software\c_project2010\winForm实例\VedioPlayer\bin\Release\Interop.WMPLib.dll
+D:\software\c_project2010\winForm实例\VedioPlayer\bin\Release\AxInterop.WMPLib.dll
